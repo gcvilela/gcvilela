@@ -1,7 +1,7 @@
 
 <div>
 
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues&count_private=true">
   <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&theme=dracula&layout=compact&hide=portugol">
   
 </div>
