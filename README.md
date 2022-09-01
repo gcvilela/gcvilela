@@ -1,5 +1,5 @@
 
-<a><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&layout=compact&theme=dracula&hide_border=true" /></a>
+<a><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&layout=compact&theme=dracula&hide_border=true"></a>
 
    ##
   
