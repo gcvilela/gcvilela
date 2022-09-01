@@ -1,8 +1,8 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&theme=dracula&hide=portugol)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&theme=dracula&layout=compact&hide=portugol)
 
 
 
