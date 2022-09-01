@@ -1,5 +1,18 @@
 
-<a><img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&layout=compact&theme=dracula&hide_border=true"></a>
+<div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&layout=compact&theme=dracula&hide=portugol)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues)
+
+</div>
+
+<a href="https://github.com/Dibras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&layout=compact&theme=dracula&hide=portugol" />
+</a>
+<a href="https://github.com/Dibras">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues" />
+</a>
 
    ##
   
