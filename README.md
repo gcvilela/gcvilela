@@ -1,8 +1,8 @@
 
 <div>
 
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Dibras&show_icons=true&theme=dracula&hide=issues&count_private=true">
-  <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibras&theme=dracula&layout=compact&hide=portugol">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=gcvilela&show_icons=true&theme=dracula&hide=issues&count_private=true">
+  <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcvilela&theme=dracula&layout=compact&hide=portugol">
   
 </div>
 
@@ -23,6 +23,6 @@
   <a href="https://www.linkedin.com/in/gustavo-vilela-939963163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    
-   ![Snake animation](https://github.com/Dibras/Dibras/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/gcvilela/gcvilela/blob/output/github-contribution-grid-snake.svg)
    
 </div>
