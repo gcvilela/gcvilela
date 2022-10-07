@@ -1,8 +1,8 @@
 
 <div>
 
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=gcvilela&show_icons=true&theme=dracula&hide=issues&count_private=true">
-  <img align="center" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcvilela&theme=dracula&layout=compact&hide=portugol">
+  <img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=gcvilela&show_icons=true&theme=dracula&hide=issues&count_private=true">
+  <img align="center" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcvilela&theme=dracula&layout=compact&hide=portugol">
   
 </div>
 
