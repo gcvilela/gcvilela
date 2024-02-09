@@ -1,7 +1,7 @@
 <div>
   <a  href="https://github.com/gcvilela/gcvilela/main/README.md">
     <img  align="center" alt="Vilela sttus" src="https://github-readme-stats.vercel.app/api?username=gcvilela&show_icons=true&theme=dracula" />
-    <img width="35%" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcvilela&layout=compact&langs_count=5&theme=dracula" />
+    <img width="50%" align="center" alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcvilela&layout=compact&langs_count=5&theme=dracula" />
   </a>
 </div>
 
